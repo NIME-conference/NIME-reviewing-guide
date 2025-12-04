@@ -28,6 +28,17 @@ There are two types of reviewers at NIME: Reviewers, and meta-reviewers, both of
 
 **Meta-reviewers** are experienced NIME scholars and artists with considerable domain knowledge and reviewing experience. Meta-reviewers consider the reviewers' perspectives and their own assessment of a submission to _make an acceptance recommendation to the track chairs_. Meta-reviewers do not simply _average_ reviewers' scores but can engage the reviewers in discussion as well as contribute their own perspective to either reach a consensus, or articulate different review perspectives and ensure that feedback to authors is appropriate.
 
+## Guides
+
+[A Guide to Paper Reviewing for NIME](https://github.com/NIME-conference/NIME-reviewing-guide/blob/main/paper-reviewer.md)
+
+[A Guide to Paper Meta-Reviewing for NIME](https://github.com/NIME-conference/NIME-reviewing-guide/blob/main/paper-meta-reviewer.md)
+
+[A Guide to Music Track Reviewing for NIME](https://github.com/NIME-conference/NIME-reviewing-guide/blob/main/music-reviewer.md)
+
+[A Guide to Music Meta-Reviewing for NIME](https://github.com/NIME-conference/NIME-reviewing-guide/blob/main/music-meta-reviewer.md)
+
+
 ## Other resources on reviewing
 
 - [Ken Hinckly - On Excellence in Reviews and Meta Reviews and Championing Submitted Work That Has Merit](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Excellence-in-Reviews-MobileHCI-2015-Web-Site.pdf)
