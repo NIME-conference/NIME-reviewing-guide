@@ -1,6 +1,6 @@
 # A Guide to Paper Meta-Reviewing for NIME
 
-Thank you for agreeing to be a meta-reviewer for NIME 2025 ! This guide is to make the meta-reviewing process less time consuming. If you still have questions, please contact the paper chairs, Doga Buse Cavdir (dogc@itu.dk) or Florent Berthaut (florent.berthaut@univ-lille.fr)
+Thank you for agreeing to be a meta-reviewer for NIME 2025 ! This guide is to make the meta-reviewing process less time consuming. If you still have questions, please contact the paper chairs (papers@nime2026.org).
 
 ## Who are meta-reviewers?
 
