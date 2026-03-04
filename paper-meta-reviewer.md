@@ -1,6 +1,6 @@
 # A Guide to Paper Meta-Reviewing for NIME
 
-Thank you for agreeing to be a meta-reviewer for NIME 2025 ! This guide is to make the meta-reviewing process less time consuming. If you still have questions, please contact the paper chairs (papers@nime2026.org).
+Thank you for agreeing to be a meta-reviewer for NIME 2026! This guide is to make the meta-reviewing process less time consuming. If you still have questions, please contact the paper chairs (papers@nime2026.org).
 
 ## Who are meta-reviewers?
 
@@ -61,6 +61,14 @@ In recent years the topic of bias has come to the forefront in peer review, and 
 While this document can’t give prescriptive guidelines on how to avoid bias, please keep in mind that we all have our own expectations of NIME work that is “good”, “useful”, and “relevant”. However, NIME is an enormous and diverse community that lies across divergent disciplines, and you may encounter submissions that you don’t personally find useful or relevant. In this case, we encourage all reviewers to keep in mind that our judgement should be based on **enhancing** **community knowledge**.
 
 **Also, contributions will come from very different research traditions (qualitative, quantitative, design-based and artistic research, etc). It is sometimes difficult for the paper chairs to match reviewer background to papers, so please keep an eye open for critical mismatches, and let us know if you are asked to review a submission that comes from a research tradition or paradigm that you are not comfortable reviewing.**
+
+In addition, NIME 2026 introduces new topics under the conference theme Communities, including:
+- NIME 2026 theme: Communities. Topic 1: interviews with, reports on, or collaborations with artists/makers outside the NIME academic community
+- NIME 2026 theme: Communities. Topic 2: ethnographic or sociological study of new interface use outside the lab
+
+These contributions may follow formats, writing styles, and research approaches that differ from what some reviewers traditionally expect from NIME papers. In particular, they may involve dialogical formats, interview-based narratives, or reports centered on practitioners whose work occurs outside academic institutions. Reviewers should be mindful not to evaluate these submissions solely according to conventional academic or technical criteria if those criteria are not appropriate to the contribution.
+
+When evaluating these submissions, please focus on the relevance, insight, and contribution to the broader NIME community and its understanding of practices around new musical interfaces. If you notice that a review may be biased by expectations about format, methodology, or academic framing, please address this explicitly in your meta-review and encourage reviewers to consider the intentions of these new tracks.
 
 ### Read the reviews
 
